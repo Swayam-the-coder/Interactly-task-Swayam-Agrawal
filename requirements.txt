@@ -6,3 +6,4 @@ pandas
 bs4
 faiss-cpu
 google-generativeai
+langchain_google_genai
