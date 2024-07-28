@@ -1,0 +1,8 @@
+streamlit
+streamlit_option_menu
+langchain
+langchain-community
+pandas
+bs4
+faiss-cpu
+google-generativeai
